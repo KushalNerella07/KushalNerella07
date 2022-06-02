@@ -1,9 +1,11 @@
 ![Design and Development](https://media-exp1.licdn.com/dms/image/C5616AQF7V7Bx2pXOZA/profile-displaybackgroundimage-shrink_200_800/0/1632875438877?e=1659571200&v=beta&t=vI9GwXZ2WyW2z_2ud_8EGWEz8GIa6tjoCwG6lrs9oU4)
 
-### Hi there 👋, Kushal Nerella 
-I'm Kushal, a multi-disciplined User Experience Designer with web development skills, passionate about solving problems and creating holistic experiences. I really enjoy learning new languages and frameworks that help turn my design ideas to life.
+### Hi there 👋,I'm Kushal Nerella 
+I'm a multi-disciplined User Experience Designer with web development skills, passionate about solving problems and creating holistic experiences. I really enjoy learning new languages and frameworks that help turn my design ideas to life.
 
-Skills: REACT JS/ JS /  HTML / CSS
+## Skills and Experience 
+REACT JS
+JS /  HTML / CSS
 
 - 📫 How to reach me: kushalkumarnerella@gmail.com 
 - 😄 Pronouns: He/Him/His 
