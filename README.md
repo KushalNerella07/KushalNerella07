@@ -4,10 +4,11 @@
 I'm a multi-disciplined User Experience Designer with web development skills, passionate about solving problems and creating holistic experiences. I really enjoy learning new languages and frameworks that help turn my design ideas to life.
 
 ## Skills and Experience 
-REACT JS
-JS /  HTML / CSS
+* ⚛️ REACT JS
+* 📱 REACT JS
+* 🖥️ JS /  HTML / CSS
 
-- 📫 How to reach me: kushalkumarnerella@gmail.com 
+- 📫 Email me at: kushalkumarnerella@gmail.com 
 - 😄 Pronouns: He/Him/His 
 
 
